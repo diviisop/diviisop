@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @diviisop
-- 👀 I’m interested in games lolllllll
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me on discord VladimirPutin#6442
+- 👀 I’m interested in games and anime
+- 🌱 I’m currently learning advanced Javascript, C++ and Java for my intrest
+- 📫 How to reach me on discord diviis2op
 
 <!---
 diviisop/diviisop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
